@@ -1,6 +1,11 @@
 
-//Todo: ajouter manuellement libraries USBHost 1.0.5, USBHid 0.63.0
 
+//Todo: ajouter manuellement libraries :
+// USBHost 1.0.5 (à confirmer)
+// USBHid 0.63.0 (à confirmer)
+// USB Host Shield Library 2.0 1.3.2
+// Adafruit PWM Servo Driver Library 1.0.2
+#define DEBUG_USB_HOST 1
 
 //PROBLÈME: Le Slider n'a que 16 valeurs... Besoin d'aide pour voir comment corriger.
 //XY OK sur Logitech Wingman
